@@ -1,6 +1,6 @@
 # Arduinci
 <img src="https://i.ibb.co/m6ZMcNy/logo.png" width="350" height="125">
-Theme changer app for Arduino IDE.
+Theme changer app for Arduino IDE (1.8.19).
 
 Video about how to use:
 
