@@ -1,4 +1,5 @@
 # Arduinci
+<img src="https://i.ibb.co/m6ZMcNy/logo.png" width="350" height="125">
 Theme changer app for Arduino IDE.
 
 Video about how to use:
