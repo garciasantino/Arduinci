@@ -6,7 +6,7 @@ Video about how to use:
 
 # Themes
 Available themes to download are:
-<li>AMX Studio</li>
+<li>AMXX Studio</li>
 <li>VS Code</li>
 <li>Sublime Text</li>
 <li>Win98 Styled</li>
